@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Salut, moi c’est Joe Bidene
 
-<!--
-**bidene/bidene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Développeur passionné | 🚀 Créateur de solutions web
+🌍 Basé au Bénin 
 
-Here are some ideas to get you started:
+🧠 À propos de moi
+🎯 Passionné par le développement web et le design moderne
+⚙️ J’aime transformer des idées en projets concrets
+📚 Toujours en apprentissage de nouvelles technologies
+🤝 Ouvert aux collaborations et projets intéressants
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠️ Technologies que j’utilise
+💻 Frontend
+HTML5
+CSS3
+JavaScript
+React (si tu l’utilises)
+⚙️ Backend
+Node.js
+PHP (optionnel)
+🗄️ Autres outils
+Git & GitHub
+Figma (design UI)
+
+📊 Mes statistiques GitHub
+
+📫 Me contacter
+📞 WhatsApp : +229 01 97 44 20 48
+📧 Email : gomezjoel277@gmail.com
+
+⚡ Objectif
+
+Devenir un développeur capable de créer des solutions modernes, rapides et utiles.
+
+💡 “Code propre, idées simples, impact puissant.”
