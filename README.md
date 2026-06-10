@@ -1,6 +1,6 @@
-# 👋 Salut, je suis Joe Bidene
-💻 Développeur Web / Mobile
-🚀 Passionné par le clean code et le design moderne
+# 👋 Salut
+Je suis  Bidene, développeur web passionné par la création de solutions numériques modernes, performantes et intuitives. J'interviens aussi bien sur le Front-End que sur le Back-End, avec une attention particulière portée à la qualité du code, aux performances et à l'expérience utilisateur.
+Actuellement, je développe plusieurs projets web et applications modernes afin de renforcer mes compétences et d'apporter des solutions concrètes aux particuliers, entreprises et entrepreneurs souhaitant développer leur présence numérique.
 
 ## 🚀 Tech Stack
 
