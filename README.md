@@ -84,7 +84,7 @@ Je suis ouvert aux échanges, aux collaborations et aux opportunités qui me per
 
 📩 **Contact :** Ajoute ici ton adresse e-mail professionnelle.
 
-🌐 **GitHub :** [Découvrir mes projets](https://github.com/VOTRE_PSEUDO)
+🌐 **Web: https://bidenedev.vercel.app/**
 
 ---
 
