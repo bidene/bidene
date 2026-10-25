@@ -66,22 +66,6 @@ Je développe progressivement mon portfolio de projets afin de démontrer mes co
 
 🔹 **Projets expérimentaux** — Exploration de nouvelles technologies et amélioration continue de mes compétences.
 
-👉 Retrouvez mes réalisations dans mes dépôts GitHub.
-
----
-
-## 📊 Mon activité GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiques GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_PSEUDO&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
-</p>
-
----
-
 ## 🎯 Mes objectifs
 
 - 📚 Approfondir mes connaissances en développement Front-End et Back-End.
